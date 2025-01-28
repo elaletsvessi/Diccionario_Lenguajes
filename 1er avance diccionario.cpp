@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Ejemplo de cambio
+
 #ifdef _WIN32
 #define CLEAR "cls"
 #else
